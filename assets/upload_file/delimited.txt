@@ -1,8 +1,0 @@
-phone_number|org_id|customer_id|message|media_url|timezone|send_start|send_end
-2488606591|32|2089749|We have an important message from American Profit Recovery. This is a communication from a debt collector. Please call 833-501-1707. Reply STOP to opt-out.||EST|09/21/2020|09/21/2020
-7813677959|32|2089751|We have an important message from American Profit Recovery. This is a communication from a debt collector. Please call 833-501-1707. Reply STOP to opt-out.||EST|09/21/2020|09/21/2020
-2489256641|32|2089753|We have an important message from American Profit Recovery. This is a communication from a debt collector. Please call 833-501-1707. Reply STOP to opt-out.||EST|09/21/2020|09/21/2020
-2487627210|32|2089758|We have an important message from American Profit Recovery. This is a communication from a debt collector. Please call 833-501-1707. Reply STOP to opt-out.|www.google.com|EST|09/21/2020|09/21/2020
-2484444645|32|2089762|We have an important message from American Profit Recovery. This is a communication from a debt collector. Please call 833-501-1707. Reply STOP to opt-out.|www.google.com|EST|09/21/2020|09/21/2020
-2485349202|32|2089767|We have an important message from American Profit Recovery. This is a communication from a debt collector. Please call 833-501-1707. Reply STOP to opt-out.|www.google.com|EST|09/21/2020|09/21/2020
-8103600074|32|2089767|We have an important message from American Profit Recovery. This is a communication from a debt collector. Please call 833-501-1707. Reply STOP to opt-out.|www.google.com|EST|09/21/2020|09/21/2020
