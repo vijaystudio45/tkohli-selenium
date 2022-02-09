@@ -1,0 +1,2 @@
+phone_number,message,media_url,org_id,business_unit_id,timezone,send_start,send_end,state,customer_id,tcpa
+201-605-6251,test1,https://test1.com,1,,,,,automation,,
